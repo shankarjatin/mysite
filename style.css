@@ -1,0 +1,35 @@
+body{margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+    background-image: linear-gradient(to right, #d3b8b8 , #58e16f);
+font-family: 'Merriweather', serif;
+}
+.first{
+align-items: center; }
+h1{text-align: center;
+    font-family: 'Sacramento', cursive;}
+    h2{font-family: 'Montserrat', sans-serif;}
+p{text-align: center;}
+.topcloud{
+    position: absolute;
+    top: 50px;
+    right: 300px;
+}
+.bottomcloud{position: absolute;
+left: 300px;
+bottom: 300px;}
+.mont{align-self: center;
+}
+.tableone{ font-size: larger; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+margin-left: auto;
+margin: auto;
+background-color: rgb(162, 209, 162);
+box-shadow: 10px 10px 5px 12px lightblue;}
+tr:hover {background-color: rgb(100, 175, 100);}
+th, td {
+    border-bottom: 1px solid #ddd;
+  }tr:nth-child(even) {background-color: #f2f2f2;}
+ #imglink{height: 90px; width: 90px;}
+.first{font-size: x-large;}
+.profile{font-size: x-large;}
+h2.contact-me{background-color: aqua;}
